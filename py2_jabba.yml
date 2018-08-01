@@ -7,7 +7,6 @@ dependencies:
   - bcftools=1.7
   - bedtools=2.27.1
   - cooler=0.7.6
-  - deeptools=3.1.0
   - hicexplorer=2.1.4
   - htslib=1.7
   - pairix=0.3.6
@@ -23,7 +22,6 @@ dependencies:
   - biopython=1.72
   - bottleneck=1.2.1
   - ca-certificates=2018.4.16
-  - cairo=1.14.6
   - certifi=2018.4.16
   - conda=4.5.5
   - dask-core=0.18.1
@@ -115,8 +113,6 @@ dependencies:
   - gevent=1.2.1
   - greenlet=0.4.12
   - grin=1.2.1
-  - gst-plugins-base=1.8.0
-  - gstreamer=1.8.0
   - h5py=2.7.0
   - hdf5=1.8.17
   - heapdict=1.0.0
@@ -146,13 +142,9 @@ dependencies:
   - libcurl=7.60.0
   - libffi=3.2.1
   - libgcc=4.8.5
-  - libgcc-ng=7.2.0
   - libgfortran=3.0.0
-  - libgfortran-ng=7.2.0
   - libiconv=1.14
-  - libpng=1.6.27
   - libsodium=1.0.10
-  - libstdcxx-ng=7.2.0
   - libtiff=4.0.6
   - libtool=2.4.2
   - libxcb=1.12
@@ -196,7 +188,6 @@ dependencies:
   - psutil=5.2.2
   - ptyprocess=0.5.1
   - py=1.4.33
-  - pycairo=1.10.0
   - pycosat=0.6.3
   - pycparser=2.17
   - pycrypto=2.6.1
@@ -207,7 +198,6 @@ dependencies:
   - pyodbc=4.0.16
   - pyopenssl=17.0.0
   - pyparsing=2.1.4
-  - pyqt=5.6.0
   - pytables=3.4.2
   - pytest=3.0.7
   - python=2.7.13
